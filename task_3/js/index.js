@@ -1,3 +1,5 @@
+// Создайте функцию isEmpty(obj), которая возвращает true, если в объекте нет свойств и false – если хоть одно свойство есть.
+
 const FIRST_OBJ = {};
 const SECOND_OBJ = {
   name:"Ihor",
