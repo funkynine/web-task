@@ -50,8 +50,6 @@ const MORSE_LIST = {
 
 }
 
-// var re = new RegExp("");
-
 function morseDecoder(morseMessage) {
 
     let words = morseMessage.trim().split("   ");
